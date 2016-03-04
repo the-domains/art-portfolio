@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Art Portfolio]]></title>
+        <description><![CDATA[Art Portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 20:08:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wisdom of Trees - Raven]]></title>
+            <description><![CDATA[<article><h1>Wisdom of Trees - Raven</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58e7d60f4694290ff9b922c7d3328760c4e168ac.jpg"></article>]]></description>
+            <link>http://portfolio.staciearellano.com/gallery/705363#7</link>
+            <guid isPermaLink="false">55b4f42d-9e7f-4a19-be51-2b0f7fe7bc99</guid>
+            <pubDate>Fri, 04 Mar 2016 20:07:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
