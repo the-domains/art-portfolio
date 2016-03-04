@@ -1,4 +1,4 @@
-name: Art Portfolio
+name: Stacie Arellano - Portfolio
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.85677
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fefefe'
-    - '#b0b0b0'
-    - '#797979'
-    - '#272727'
-  brandStrength: 1
+    - '#fbfcf7'
+    - '#343635'
+    - '#939592'
+    - '#e34143'
+    - '#f1acaf'
+  brandStrength: 0.75
   lightness: 0
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
