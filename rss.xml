@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Art Portfolio]]></title>
         <description><![CDATA[Art Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/art-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 20:08:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 20:08:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/art-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stacie Arellano]]></title>
+            <description><![CDATA[<article><h1>Stacie Arellano</h1><p>Comics and Illustration</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83ae6f03e601499124c00b58a622c42267e72f94.jpg"></article>]]></description>
+            <link>http://portfolio.staciearellano.com/gallery/705363#8</link>
+            <guid isPermaLink="false">2d555853-0bdf-452d-b402-27d0bf586e6b</guid>
+            <pubDate>Fri, 04 Mar 2016 20:07:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wisdom of Trees - Raven]]></title>
             <description><![CDATA[<article><h1>Wisdom of Trees - Raven</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58e7d60f4694290ff9b922c7d3328760c4e168ac.jpg"></article>]]></description>
