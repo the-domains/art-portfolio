@@ -15,20 +15,20 @@ keywords:
   - design
   - home
 description: "DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art."
-datePublished: '2016-03-04T20:25:07.346Z'
-dateModified: '2016-03-04T20:07:45.954Z'
+datePublished: '2016-03-04T22:38:32.062Z'
+dateModified: '2016-03-04T22:38:21.307Z'
 author: []
 related: []
 app_links: []
 title: Stacie Arellano
+sourcePath: _posts/2016-03-04-stacie-arellano.md
+published: true
 authors: []
 publisher:
   name: Staciearellano
   domain: portfolio.staciearellano.com
   url: 'http://portfolio.staciearellano.com'
   favicon: 'http://st.deviantart.net/portfolio/favicon.png'
-sourcePath: _posts/2016-03-04-stacie-arellano.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
