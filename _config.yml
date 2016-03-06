@@ -1,6 +1,6 @@
 name: Stacie Arellano - Portfolio
 favicon: null
-layout_spectrum: 0.94562
+layout_spectrum: 0.66276
 typography_spectrum: 0.85677
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#939592'
     - '#e34143'
     - '#f1acaf'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 0.75
