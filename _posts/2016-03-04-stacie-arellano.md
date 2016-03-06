@@ -15,8 +15,8 @@ keywords:
   - design
   - home
 description: "DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art."
-datePublished: '2016-03-04T22:38:32.062Z'
-dateModified: '2016-03-04T22:38:21.307Z'
+datePublished: '2016-03-06T22:00:19.563Z'
+dateModified: '2016-03-04T22:38:34.090Z'
 author: []
 related: []
 app_links: []
