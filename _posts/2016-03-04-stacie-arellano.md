@@ -14,15 +14,14 @@ keywords:
   - artist
   - design
   - home
-description: "DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art."
-datePublished: '2016-03-14T17:58:48.170Z'
-dateModified: '2016-03-11T19:00:38.707Z'
+description: ''
+datePublished: '2016-05-27T17:07:46.919Z'
+dateModified: '2016-03-14T17:59:11.983Z'
 author: []
 related: []
 app_links: []
-title: Stacie Arellano
+title: ''
 sourcePath: _posts/2016-03-04-stacie-arellano.md
-published: true
 authors: []
 publisher:
   name: Staciearellano
