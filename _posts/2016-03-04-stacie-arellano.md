@@ -1,10 +1,10 @@
 ---
+datePublished: '2016-06-09T21:42:15.319Z'
+sourcePath: _posts/2016-03-04-stacie-arellano.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'http://portfolio.staciearellano.com/gallery/705363#8'
-inLanguage: en
-starred: true
+authors: []
+hasPage: false
 keywords:
   - bio
   - paintings
@@ -14,22 +14,24 @@ keywords:
   - artist
   - design
   - home
-description: ''
-datePublished: '2016-05-27T17:07:46.919Z'
-dateModified: '2016-03-14T17:59:11.983Z'
-author: []
 related: []
+author:
+  - name: Stacie Arellano
+    url: ''
+dateModified: '2016-06-09T21:42:14.922Z'
+title: Stacie Arellano
 app_links: []
-title: ''
-sourcePath: _posts/2016-03-04-stacie-arellano.md
-authors: []
 publisher:
   name: Staciearellano
   domain: portfolio.staciearellano.com
   url: 'http://portfolio.staciearellano.com'
   favicon: 'http://st.deviantart.net/portfolio/favicon.png'
+description: Comics and Illustration
+inLanguage: en
+inNav: false
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Stacie Arellano</h1><p>Comics and Illustration</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83ae6f03e601499124c00b58a622c42267e72f94.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e23864205ab087bfbd71bd08e8f75d6818f011af.jpg" /></article>
