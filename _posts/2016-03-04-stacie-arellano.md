@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-09T21:42:15.319Z'
+datePublished: '2016-06-09T21:42:20.655Z'
 sourcePath: _posts/2016-03-04-stacie-arellano.md
 inFeed: true
 isBasedOnUrl: 'http://portfolio.staciearellano.com/gallery/705363#8'
@@ -18,7 +18,7 @@ related: []
 author:
   - name: Stacie Arellano
     url: ''
-dateModified: '2016-06-09T21:42:14.922Z'
+dateModified: '2016-06-09T21:42:20.402Z'
 title: Stacie Arellano
 app_links: []
 publisher:
@@ -29,7 +29,7 @@ publisher:
 description: Comics and Illustration
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
