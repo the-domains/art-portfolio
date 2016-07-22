@@ -3,27 +3,31 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ' Stacie Arellano is a Web Professional with over a decade of experience in web design and development.   In addition to her web experience she has a pro'
-datePublished: '2016-03-04T20:34:44.921Z'
-dateModified: '2016-03-04T20:34:20.408Z'
-author: []
-title: About the Artist
+description: >-
+  Stacie Arellano is a Web Professional with extensive experience in web design
+  and development.
+datePublished: '2016-07-22T18:42:09.561Z'
+dateModified: '2016-07-22T18:42:08.335Z'
+author:
+  - name: ''
+    url: ''
+title: 'Author, Illustrator, Web Maven'
+sourcePath: _posts/2016-03-04-about-the-artist.md
 authors: []
 publisher:
-  name: portfolio.staciearellano.com
-  domain: portfolio.staciearellano.com
-  url: null
+  name: ''
+  domain: null
+  url: ''
   favicon: null
-sourcePath: _posts/2016-03-04-about-the-artist.md
-published: true
+via: {}
+starred: false
 url: about-the-artist/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![Stacie Arellano in  Black and White](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b266579-fbfe-43b4-ad91-4f635c6be35a.jpg)
+![Stacie Arellano in  Black and White](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d48b537f0e75d48f5a9e8eba08138eb981eff80.jpg)
 
 ## Author, Illustrator, Web Maven
 
