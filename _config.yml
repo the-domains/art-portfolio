@@ -1,19 +1,4 @@
-name: Stacie Arellano - Portfolio
-favicon: null
-layout_spectrum: 0.50585
 typography_spectrum: 0.85677
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d6beaa'
@@ -25,4 +10,24 @@ color:
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50585
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Stacie Arellano - Portfolio
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 6f8d5106-af04-4107-98fd-785e80adecce
+    url: 2016-03-04-about-the-artist.html
+    name: The Artist
+    type: content
+favicon: null
 purpose: []
