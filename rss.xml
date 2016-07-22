@@ -4,7 +4,7 @@
         <description><![CDATA[Stacie Arellano - Portfolio]]></description>
         <link>https://thegrid.ai/art-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 21:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 18:42:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/art-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/art-portfolio/51a6eb3a-464f-4b0c-aeb6-a4fd16744225/index.html</link>
             <guid isPermaLink="false">51a6eb3a-464f-4b0c-aeb6-a4fd16744225</guid>
             <pubDate>Thu, 09 Jun 2016 21:54:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Author, Illustrator, Web Maven]]></title>
+            <description><![CDATA[<article><h1>Author, Illustrator, Web Maven</h1><p>Stacie Arellano is a Web Professional with extensive experience in web design and development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d48b537f0e75d48f5a9e8eba08138eb981eff80.jpg"></article>]]></description>
+            <link>https://thegrid.ai/art-portfolio/about-the-artist/index.html</link>
+            <guid isPermaLink="false">6f8d5106-af04-4107-98fd-785e80adecce</guid>
+            <pubDate>Fri, 22 Jul 2016 18:42:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/art-portfolio/21df9656-ceb6-4bec-af5b-1192ef44f9b4/index.html</link>
             <guid isPermaLink="false">21df9656-ceb6-4bec-af5b-1192ef44f9b4</guid>
             <pubDate>Fri, 04 Mar 2016 20:39:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Author, Illustrator, Web Maven]]></title>
-            <description><![CDATA[<article><h1>Author, Illustrator, Web Maven</h1><p>Stacie Arellano is a Web Professional with extensive experience in web design and development.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d48b537f0e75d48f5a9e8eba08138eb981eff80.jpg"></article>]]></description>
-            <link>https://thegrid.ai/art-portfolio/about-the-artist/index.html</link>
-            <guid isPermaLink="false">6f8d5106-af04-4107-98fd-785e80adecce</guid>
-            <pubDate>Fri, 04 Mar 2016 20:34:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hammerhead]]></title>
