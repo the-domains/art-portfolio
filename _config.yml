@@ -25,9 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 6f8d5106-af04-4107-98fd-785e80adecce
-    url: 2016-03-04-about-the-artist.html
-    name: The Artist
+  - name: The Artist
+    id: 6f8d5106-af04-4107-98fd-785e80adecce
+    type: content
+  - name: Prints & Paintings
+    id: 54043675-246d-4d50-9319-ab387fe33c68
     type: content
 favicon: null
 purpose: []
