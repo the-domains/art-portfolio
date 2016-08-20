@@ -31,5 +31,8 @@ navigation:
   - name: Prints & Paintings
     id: 54043675-246d-4d50-9319-ab387fe33c68
     type: content
+  - name: Comics
+    id: e93c2182-736c-4096-80a7-4a725988d154
+    type: content
 favicon: null
 purpose: []
