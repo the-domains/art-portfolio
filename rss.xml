@@ -4,15 +4,8 @@
         <description><![CDATA[Stacie Arellano - Portfolio]]></description>
         <link>https://thegrid.ai/art-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 05:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 19:30:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/art-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Linocuts]]></title>
-            <description><![CDATA[<article><h1>Linocuts</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99d01219-8a25-492b-a61e-66a6317274ad.jpg"></article>]]></description>
-            <link>https://thegrid.ai/art-portfolio/linocuts/index.html</link>
-            <guid isPermaLink="false">54043675-246d-4d50-9319-ab387fe33c68</guid>
-            <pubDate>Tue, 30 Aug 2016 05:22:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ec4ce67-b35f-4c22-9c4b-31d0b1d74cab.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>http://portfolio.staciearellano.com/gallery/705363#6</link>
             <guid isPermaLink="false">d14a9b18-8b00-4697-bde7-dacfc7de90f4</guid>
             <pubDate>Fri, 04 Mar 2016 20:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linocuts]]></title>
+            <description><![CDATA[<article><h1>Linocuts</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99d01219-8a25-492b-a61e-66a6317274ad.jpg"></article>]]></description>
+            <link>https://thegrid.ai/art-portfolio/linocuts/index.html</link>
+            <guid isPermaLink="false">54043675-246d-4d50-9319-ab387fe33c68</guid>
+            <pubDate>Thu, 01 Sep 2016 19:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
