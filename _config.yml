@@ -33,14 +33,14 @@ navigation:
   - name: Print shop
     url: 'https://squareup.com/store/staciearellano'
     type: external
-  - name: Comics
-    id: e93c2182-736c-4096-80a7-4a725988d154
-    type: content
   - name: Portraits
     id: a719412c-2d4d-4f94-b820-83d598a50386
     type: content
   - name: Linocuts
     id: 54043675-246d-4d50-9319-ab387fe33c68
+    type: content
+  - name: Comics
+    id: e93c2182-736c-4096-80a7-4a725988d154
     type: content
   - name: The Artist
     id: 6f8d5106-af04-4107-98fd-785e80adecce
