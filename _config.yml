@@ -1,136 +1,84 @@
-layout_spectrum: 0.18967789946889302
-typography_spectrum: 0.7084992472640248
+typography_spectrum: 0.6459032144190947
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.3832073469223953
-  lightness: 0.5467448191261749
-  saturation: 0.42776037637208875
-  rhythmicContrast: 0.7258910972692331
-coverPrefs:
-  filter: false
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  brandStrength: 0.448772570052009
+  lightness: 0.15707781184141956
+  saturation: 0.3795490725655662
+  rhythmicContrast: 0.1302773301860336
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8990358274905841
 analytics:
   google: UA-78516-16
   facebook: null
   twitter: null
+author:
+  name: Stacie Arellano
+  email: stacie@staciearellano.com
+  url: 'http://www.staciearellano.com'
 name: Stacie Arellano
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
-  - name: The Artist
-    id: 6f8d5106-af04-4107-98fd-785e80adecce
+  - name: Comics
+    id: e93c2182-736c-4096-80a7-4a725988d154
+    type: content
+  - name: Portraits
+    id: a719412c-2d4d-4f94-b820-83d598a50386
     type: content
   - name: Linocuts
     id: 54043675-246d-4d50-9319-ab387fe33c68
     type: content
-  - name: Comics
-    id: e93c2182-736c-4096-80a7-4a725988d154
+  - name: The Artist
+    id: 6f8d5106-af04-4107-98fd-785e80adecce
     type: content
+  - name: Print shop
+    url: 'https://squareup.com/store/staciearellano'
+    type: external
 favicon: null
 title: Ink Love
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
+    type: image
     html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPUEMsou2r-w%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPUEMsou2r-w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPUEMsou2r-w%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
-      width="640" height="360" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a9a741-02b8-4653-8f25-e06f9bbf7fa3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a9a741-02b8-4653-8f25-e06f9bbf7fa3.jpg
     metadata:
-      author:
-        - name: Stacie Arellano
-          url: 'https://www.youtube.com/user/Metahar1'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
-      keywords:
-        - duration
-        - manga
-        - views
-        - studio
-        - kluser
-        - ccmixter
-        - arellano
-        - stacie
-        - comic
-        - shogunroninartist
-      description: >-
-        Check out my adventure comic on http://www.tributewaters.com I'm working
-        in Manga Studio here. Music:
-        http://ccmixter.org/files/geertveneklaas/23254
-        http://ccmixter.org/files/waldhorn33/11246
-        http://ccmixter.org/files/Loveshadow/23570 (less info)
-      inLanguage: en
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=PUEMsou2r-w&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=PUEMsou2r-w&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=PUEMsou2r-w&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=PUEMsou2r-w&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=PUEMsou2r-w&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=PUEMsou2r-w'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=PUEMsou2r-w
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=PUEMsou2r-w
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=PUEMsou2r-w'
-      title: an hour of page 14 (better version!)
       datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: 'Comics, Linocuts, Illustrations and joy from Stacie Arellano.'
 purpose:
   - type: external
-    url: 'http://www.redbubble.com/people/dreamling/shop'
-    label: Buy Art Now!
+    url: 'https://squareup.com/store/staciearellano'
+    label: Buy Original Art
   - type: external
     url: 'https://www.createspace.com/4959420'
-    label: Buy my Graphic Novel!
-github: true
-author:
-  name: Stacie Arellano
-  email: stacie@staciearellano.com
-  url: 'http://www.staciearellano.com'
+    label: Buy Graphic Novel
