@@ -47,31 +47,7 @@ navigation:
     type: content
 favicon: null
 title: Ink Love
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a9a741-02b8-4653-8f25-e06f9bbf7fa3.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a9a741-02b8-4653-8f25-e06f9bbf7fa3.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 coverPrefs:
   filter: false
 description: 'Comics, Linocuts, Illustrations and joy from Stacie Arellano.'
