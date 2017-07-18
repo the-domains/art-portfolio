@@ -4,9 +4,16 @@
         <description><![CDATA[Ink Love]]></description>
         <link>https://thegrid.ai/art-portfolio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 18 Jul 2017 22:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2017 22:54:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/art-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Jul 2017 22:53:44 GMT</pubDate>
+        <pubDate>Tue, 18 Jul 2017 22:54:25 GMT</pubDate>
+        <item>
+            <title><![CDATA[#saturday #photoreference #prismacolormarkers #leuchtturm1917 #sktchyapp #gellyroll]]></title>
+            <description><![CDATA[<img alt="#saturday #photoreference #prismacolormarkers #leuchtturm1917 #sktchyapp #gellyroll" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20067440_177996749406387_2641735616701661184_n.jpg">]]></description>
+            <link>https://www.instagram.com/p/BWlMuS1nSjR/</link>
+            <guid isPermaLink="false">07d9a9d3-e53a-4af5-931d-a4dfa24b8802</guid>
+            <pubDate>Tue, 18 Jul 2017 22:54:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#illustration #leuchtturm1917 #prismacolormarkers #photoreference #sktchyapp #gellyroll]]></title>
             <description><![CDATA[<img alt="#illustration #leuchtturm1917 #prismacolormarkers #photoreference #sktchyapp #gellyroll" src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19985457_652577444937394_5931796039928381440_n.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/art-portfolio/about-face/index.html</link>
             <guid isPermaLink="false">a719412c-2d4d-4f94-b820-83d598a50386</guid>
             <pubDate>Tue, 30 May 2017 20:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Author, Illustrator, Web Maven]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d48b537f0e75d48f5a9e8eba08138eb981eff80.jpg" alt="Stacie Arellano in  Black and White" title="Stacie Arellano">,<h2>Author, Illustrator, Web Maven</h2>,<p>Stacie Arellano is a Web Professional with extensive experience in web design and development.</p>]]></description>
-            <link>https://thegrid.ai/art-portfolio/about-the-artist/index.html</link>
-            <guid isPermaLink="false">6f8d5106-af04-4107-98fd-785e80adecce</guid>
-            <pubDate>Tue, 29 Nov 2016 15:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
