@@ -1,4 +1,5 @@
-typography_spectrum: 0.6459032144190947
+layout_spectrum: 0.2418709057153636
+typography_spectrum: 0.8209838503365875
 color:
   brandColors:
     - '#E7E8D1'
@@ -6,16 +7,17 @@ color:
     - '#FBF7E4'
     - '#424242'
     - '#8E001C'
-  brandStrength: 0.448772570052009
-  lightness: 0.15707781184141956
-  saturation: 0.3795490725655662
-  rhythmicContrast: 0.1302773301860336
+  brandStrength: 0.4430798368469471
+  lightness: 0.15981338484221977
+  saturation: 0.376802822069016
+  rhythmicContrast: 0.13233299256127218
+coverPrefs:
+  filter: false
 github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.8990358274905841
 analytics:
   google: UA-78516-16
   facebook: null
@@ -65,7 +67,6 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -75,8 +76,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: 'Comics, Linocuts, Illustrations and joy from Stacie Arellano.'
 purpose:
   - type: external
