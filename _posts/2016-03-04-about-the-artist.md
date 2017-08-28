@@ -9,8 +9,8 @@ description: >-
   her love for color, portraiture and the infinite diversity in infinite
   combinations that exist in the simple human face. Enjoy her work and learn how
   everything is better when you look more than just paper deep.
-datePublished: '2017-08-28T18:37:30.614Z'
-dateModified: '2017-08-28T18:37:30.200Z'
+datePublished: '2017-08-28T18:38:52.368Z'
+dateModified: '2017-08-28T18:38:51.939Z'
 author:
   - name: ''
     url: ''
@@ -40,17 +40,16 @@ Stacie Arellano, a Wisconsin native, creates comics, linoprints and has always e
 
 **Prints and Products**
 
-* Prints, Mugs, Skirts and more available at[Redbubble][3]
+* Prints, Mugs, Skirts and more available atRedbubble
 
-* [Buy Tribute Waters, Volume 1 atCreateSpace][4]or Amazon
+* [Buy Tribute Waters, Volume 1 at CreateSpace ][3]or Amazon
 
 **Tech**
 
-* [LinkedIn Profile][5]
+* [LinkedIn Profile][4]
 
 [0]: https://www.patreon.com/StacieArellano
 [1]: http://portfolio.staciearellano.com/
 [2]: http://www.tributewaters.com/
-[3]: http://www.redbubble.com/people/dreamling
-[4]: https://www.createspace.com/4959420
-[5]: https://www.linkedin.com/in/staciearellano
+[3]: https://www.createspace.com/4959420
+[4]: https://www.linkedin.com/in/staciearellano
