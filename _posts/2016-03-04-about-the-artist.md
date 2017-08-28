@@ -9,8 +9,8 @@ description: >-
   her love for color, portraiture and the infinite diversity in infinite
   combinations that exist in the simple human face. Enjoy her work and learn how
   everything is better when you look more than just paper deep.
-datePublished: '2017-08-28T18:36:11.085Z'
-dateModified: '2017-08-28T18:36:10.528Z'
+datePublished: '2017-08-28T18:37:30.614Z'
+dateModified: '2017-08-28T18:37:30.200Z'
 author:
   - name: ''
     url: ''
@@ -32,16 +32,19 @@ _type: Article
 
 Stacie Arellano, a Wisconsin native, creates comics, linoprints and has always enjoyed drawing the human form. Every stroke and shadow of About Face shows her love for color, portraiture and the infinite diversity in infinite combinations that exist in the simple human face. Enjoy her work and learn how everything is better when you look more than just paper deep.
 
+**Support her art**
+
 * [Patreon Page][0]
 * [Art and Design Portfolio][1]
+* **Tribute Waters Web Comic: **[Nautical Fantasy Adventure][2]
 
-**Tribute Waters Web Comic: **[Nautical Adventure Comic][2]
-
-Prints and Products
+**Prints and Products**
 
 * Prints, Mugs, Skirts and more available at[Redbubble][3]
 
 * [Buy Tribute Waters, Volume 1 atCreateSpace][4]or Amazon
+
+**Tech**
 
 * [LinkedIn Profile][5]
 
