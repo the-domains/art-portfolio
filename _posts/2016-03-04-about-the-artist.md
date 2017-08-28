@@ -1,43 +1,38 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  Stacie Arellano is a Web Professional with extensive experience in web design
-  and development.
-datePublished: '2016-07-22T18:42:09.561Z'
-dateModified: '2016-07-22T18:42:08.335Z'
+  Stacie Arellano, a Wisconsin native, creates comics, linoprints and has always
+  enjoyed drawing the human form. Every stroke and shadow of About Face shows
+  her love for color, portraiture and the infinite diversity in infinite
+  combinations that exist in the simple human face. Enjoy her work and learn how
+  everything is better when you look more than just paper deep.
+datePublished: '2017-08-28T18:36:11.085Z'
+dateModified: '2017-08-28T18:36:10.528Z'
 author:
   - name: ''
     url: ''
 title: 'Author, Illustrator, Web Maven'
 sourcePath: _posts/2016-03-04-about-the-artist.md
 authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 via: {}
 starred: false
+datePublishedOriginal: '2016-11-29T15:14:00.340Z'
 url: about-the-artist/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![Stacie Arellano in  Black and White](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d48b537f0e75d48f5a9e8eba08138eb981eff80.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d48b537f0e75d48f5a9e8eba08138eb981eff80.jpg)
 
 ## Author, Illustrator, Web Maven
 
-Stacie Arellano is a Web Professional with extensive experience in web design and development.
+Stacie Arellano, a Wisconsin native, creates comics, linoprints and has always enjoyed drawing the human form. Every stroke and shadow of About Face shows her love for color, portraiture and the infinite diversity in infinite combinations that exist in the simple human face. Enjoy her work and learn how everything is better when you look more than just paper deep.
 
-In addition to her web experience she has a proven eye for detail, having proofread over a dozen technical books from publishers PHP Architect, and O'Reilly Media, Inc.
-
-She has been illustrating and publishing comics since 2003, and creating linoprints since 2014\. Passion for whimsy, humor and life erupts from her work.
-
-* [LinkedIn Profile][0]
+* [Patreon Page][0]
 * [Art and Design Portfolio][1]
 
 **Tribute Waters Web Comic: **[Nautical Adventure Comic][2]
@@ -48,8 +43,11 @@ Prints and Products
 
 * [Buy Tribute Waters, Volume 1 atCreateSpace][4]or Amazon
 
-[0]: https://www.linkedin.com/in/staciearellano
+* [LinkedIn Profile][5]
+
+[0]: https://www.patreon.com/StacieArellano
 [1]: http://portfolio.staciearellano.com/
 [2]: http://www.tributewaters.com/
 [3]: http://www.redbubble.com/people/dreamling
 [4]: https://www.createspace.com/4959420
+[5]: https://www.linkedin.com/in/staciearellano
