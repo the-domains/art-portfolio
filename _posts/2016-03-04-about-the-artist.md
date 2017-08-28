@@ -9,8 +9,8 @@ description: >-
   her love for color, portraiture and the infinite diversity in infinite
   combinations that exist in the simple human face. Enjoy her work and learn how
   everything is better when you look more than just paper deep.
-datePublished: '2017-08-28T18:38:52.368Z'
-dateModified: '2017-08-28T18:38:51.939Z'
+datePublished: '2017-08-28T18:39:11.855Z'
+dateModified: '2017-08-28T18:39:11.404Z'
 author:
   - name: ''
     url: ''
@@ -40,7 +40,7 @@ Stacie Arellano, a Wisconsin native, creates comics, linoprints and has always e
 
 **Prints and Products**
 
-* Prints, Mugs, Skirts and more available atRedbubble
+* Prints, Mugs, Skirts and more available at Redbubble
 
 * [Buy Tribute Waters, Volume 1 at CreateSpace ][3]or Amazon
 
