@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.amazon.com/gp/product/1974167402/ref=as_li_tl?ie=UTF8&tag=quixotica&camp=1789&creative=9325&linkCode=as2&creativeASIN=1974167402&linkId=6a2fbd3982955de353931445b9148b7d
 title: 'About Face: a year of diverse portraits'
-datePublished: '2017-08-31T15:52:29.905Z'
-dateModified: '2017-08-31T15:52:29.548Z'
+datePublished: '2017-08-31T15:53:37.046Z'
+dateModified: '2017-08-31T15:53:35.955Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-31-about-face-a-year-of-diverse-portraits.md
@@ -31,3 +31,11 @@ _type: MediaObject
 AVAILABLE NOW!!! - About Face : a year of diverse portraits
 
 <article style=""><img src="https://images-na.ssl-images-amazon.com/images/I/51bVI9qfXHL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_SCLZZZZZZZ_.jpg" /><h1>About Face: a year of diverse portraits</h1><p>About Face: a year of diverse portraits [Stacie Arellano] on Amazon.com. *FREE* shipping on qualifying offers. A collection of Portraits celebrating diversity, created with pen, ink and markers.</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be53c6bb-7829-4979-b392-7d2e83b01b18.jpg)
+
+This has been a labor of love for me, 46 portraits, with a little bit about the project, kind muses, and the tools I use to make them. 
+
+Thanks!
+
+Stacie
