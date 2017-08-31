@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.amazon.com/gp/product/1974167402/ref=as_li_tl?ie=UTF8&tag=quixotica&camp=1789&creative=9325&linkCode=as2&creativeASIN=1974167402&linkId=6a2fbd3982955de353931445b9148b7d
 title: 'About Face: a year of diverse portraits'
-datePublished: '2017-08-31T15:49:00.694Z'
-dateModified: '2017-08-31T15:49:00.054Z'
+datePublished: '2017-08-31T15:52:29.905Z'
+dateModified: '2017-08-31T15:52:29.548Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-31-about-face-a-year-of-diverse-portraits.md
