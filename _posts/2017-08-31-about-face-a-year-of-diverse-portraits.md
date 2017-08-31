@@ -14,9 +14,9 @@ description: >-
 app_links: []
 isBasedOnUrl: >-
   https://www.amazon.com/gp/product/1974167402/ref=as_li_tl?ie=UTF8&tag=quixotica&camp=1789&creative=9325&linkCode=as2&creativeASIN=1974167402&linkId=6a2fbd3982955de353931445b9148b7d
-title: 'AVAILABLE NOW!!! - About Face : a year of diverse portraits'
-datePublished: '2017-08-31T16:02:01.600Z'
-dateModified: '2017-08-31T16:02:01.033Z'
+title: AVAILABLE NOW!!!
+datePublished: '2017-08-31T16:04:28.111Z'
+dateModified: '2017-08-31T16:04:27.615Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-31-about-face-a-year-of-diverse-portraits.md
@@ -26,7 +26,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# AVAILABLE NOW!!! - About Face : a year of diverse portraits
+# AVAILABLE NOW!!!
 ![a year of diverse portraits book](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8377d443-c5f9-4931-b6c7-562737c3eedc.png)
 
 <article style=""><h1>About Face: a year of diverse portraits</h1><p>About Face: a year of diverse portraits [Stacie Arellano] on Amazon.com. *FREE* shipping on qualifying offers. A collection of Portraits celebrating diversity, created with pen, ink and markers.</p></article>
