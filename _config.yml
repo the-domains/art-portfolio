@@ -1,16 +1,16 @@
-layout_spectrum: 0.2010923654495711
-typography_spectrum: 0.14099364357382652
+layout_spectrum: 0.3024897511633537
+typography_spectrum: 0.9955205952076445
 color:
   brandColors:
-    - '#EED0B4'
-    - '#9D8070'
-    - '#2F1E14'
-    - '#0D5C57'
-    - '#5E9B89'
-  brandStrength: 0.4497757881774687
-  lightness: 0.09723640868523259
-  saturation: 0.3733381445342583
-  rhythmicContrast: 0.8012956641955615
+    - '#5E4C3E'
+    - '#211A14'
+    - '#7C7956'
+    - '#F9D49F'
+    - '#B2B387'
+  brandStrength: 0.44927091336412595
+  lightness: 0.5298215350742904
+  saturation: 0.3770463896102023
+  rhythmicContrast: 0.8089108047472073
 coverPrefs:
   filter: false
 github: true
@@ -67,7 +67,6 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
