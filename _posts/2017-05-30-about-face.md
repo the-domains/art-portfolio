@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   In October, 2016, I began a series of portraits using ink, markers and photo
   reference from the sktchy.com iOS app.
-dateModified: '2017-10-05T15:29:30.309Z'
-datePublished: '2017-10-05T15:29:30.663Z'
+dateModified: '2017-10-05T20:05:48.230Z'
+datePublished: '2017-10-05T20:05:49.252Z'
 title: About Face
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ sourcePath: _posts/2017-05-30-about-face.md
 starred: false
 datePublishedOriginal: '2017-10-05T15:28:06.374Z'
 url: about-face/index.html
-_type: Article
+_type: Blurb
 
 ---
 # About Face
