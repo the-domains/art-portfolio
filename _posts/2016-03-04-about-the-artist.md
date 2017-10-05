@@ -9,8 +9,8 @@ description: >-
   her love for color, portraiture and the infinite diversity in infinite
   combinations that exist in the simple human face. Enjoy her work and learn how
   everything is better when you look more than just paper deep.
-datePublished: '2017-08-28T18:39:11.855Z'
-dateModified: '2017-08-28T18:39:11.404Z'
+datePublished: '2017-10-05T15:29:30.660Z'
+dateModified: '2017-10-05T15:29:30.309Z'
 author:
   - name: ''
     url: ''
