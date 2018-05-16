@@ -49,58 +49,7 @@ navigation:
     type: content
 favicon: null
 title: Ink Love
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce6304ca3deb6b53e118179035795b070c1d9fa0.jpg">
-    src: >-
-      https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce6304ca3deb6b53e118179035795b070c1d9fa0.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: imgflo.herokuapp.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/32502a8596fb6bb4e7e083d04145fc03/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Ft51.2885-15%2Fs640x640%2Fsh0.08%2Fe35%2F22157778_1301220773339962_6163790089991225344_n.jpg
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06b9669f-1c1b-4c45-894e-6548cf16bc1b.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/06b9669f-1c1b-4c45-894e-6548cf16bc1b.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Comics, Linocuts, Illustrations and joy from Stacie Arellano.'
 purpose:
   - type: external
