@@ -49,33 +49,7 @@ navigation:
     type: content
 favicon: null
 title: Ink Love
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8220d6faafd207bc52cd3f6e21755b5b11df54c5.jpg">
-    src: >-
-      https://s3-us-west-2.amazonaws.com/the-grid-img/p/8220d6faafd207bc52cd3f6e21755b5b11df54c5.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://s3-us-west-2.amazonaws.com'
-        name: .s3-us-west-2.amazonaws.com
-        favicon: null
-        domain: imgflo.herokuapp.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/70dd180bd386ddb15ad1a4acd92a390c/noop.jpg?input=https%3A%2F%2Fscontent-iad3-1.cdninstagram.com%2Fvp%2F7a2c8e4960520234aa0b2d0b988116dc%2F5B78FC69%2Ft51.2885-15%2Fe35%2F30933776_2093997707283961_7497686149058527232_n.jpg
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Comics, Linocuts, Illustrations and joy from Stacie Arellano.'
 purpose:
   - type: external
